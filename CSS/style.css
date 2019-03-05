@@ -1,0 +1,130 @@
+.logo-image {
+    width: 180px;
+    height: 100px;
+    margin-top: 30px;
+}
+
+img.center-image {
+    width: 80%;
+    height: 320px;
+    align-self: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.logo-image {
+    position: absolute;
+    left:116px;
+    top:10px;
+}
+
+.line {
+    width: 100%;
+}
+
+.small-images {
+    width: 200px !important;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+img.row-images {
+    flex-basis: 33.3%;
+    height: 180px;
+    max-height: 250px;
+    padding: 10px;
+    width: 260px;
+    
+}
+
+h2 { text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+
+p {
+    font-family: verdana;
+    font-size: 28px;
+    text-align: center;
+    color: #878f99;
+  }
+
+a {
+    color: #878f66;
+    font-weight: bold;
+}
+
+a:hover,
+a:active,
+a:focus {
+     color: darkred;
+     text-decoration: none;
+}
+
+.new-flex-container {
+    display: flex;
+    align-content: flex-end; 
+}
+
+#name {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 120px;
+    font-size: 25px;
+    margin-top: -10px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#programmer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 120px;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    margin-top: 40px;
+    color: darkslategray;
+}
+
+#horizontal-line {
+    width: 500px;
+    padding-bottom: 10px;
+}
+
+hr { 
+    display: block;
+    margin-left: 110px;
+    margin-right: 110px;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 2px;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
