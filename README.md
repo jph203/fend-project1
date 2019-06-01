@@ -14,9 +14,7 @@ In order to get this project completed, I had to learn and implement the followi
 - Following HTML formatting/styling rules
 
 ## Result
-After learning and implementing these skills, the result was this one page website I coded.
-
-![](images2/screenshot.pdf)
+After learning and implementing these skills, the result was this one page website I coded.  There is a screenshot of the Portfolio Site in my images2 folder. 
 
 
 
