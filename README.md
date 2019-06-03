@@ -1,6 +1,3 @@
-# Demo Link
-https://jph203.github.io/fend-project1/
-
 # Build a Portfolio Website - Project 1 - Front End Web Development
 This Project is part of Udacity's Front End Web Development "NanoDegree" course. 
 
